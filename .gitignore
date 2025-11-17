@@ -1,0 +1,15 @@
+# Ignore virtual env
+venv/
+
+# Ignore dataset
+plantVillage/
+
+# Ignore Python cache
+__pycache__/
+
+# Ignore model checkpoints (optional)
+*.h5
+*.hdf5
+
+# Ignore VSCode project files
+.vscode/
