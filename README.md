@@ -75,3 +75,8 @@ The CNN consists of:
 - 2 Convolutional layers with ReLU activation
 - Max pooling layers
 - Dense layers with softmax output for classification
+
+## Screenshots
+
+![Demo image1](readme-images/demo-screenshot1.png)
+![Demo image2](readme-images/demo-screenshot2.png)
